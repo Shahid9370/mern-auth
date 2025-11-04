@@ -1,3 +1,2 @@
 /download.png
-MONGO_URI=mongodb+srv://admin:NEWPASSWORD@cluster0.isnve4n.mongodb.net/?appName=Cluster0
 .env
